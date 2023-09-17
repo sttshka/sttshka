@@ -1,7 +1,7 @@
 <h1 align="center">Hey 🤓, I'm Andrew Peshko</h1>
 <h3 align="center">A experienced front-end developer with green eyes</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sttshka&label=Profile%20views&color=0e75b6&style=flat" alt="sttshka" /> </p>
+<img align="right" alt="Working" width="400" src="https://i.pinimg.com/originals/79/9f/10/799f10aae113e34c771066f2a317efe3.gif"/>
 
 - 📄 Know about my experiences [https://rxresu.me/secre.t.argaryen/peshko-andrew](https://rxresu.me/secre.t.argaryen/peshko-andrew)
 
